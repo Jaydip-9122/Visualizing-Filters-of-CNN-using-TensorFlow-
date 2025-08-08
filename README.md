@@ -1,5 +1,5 @@
 # Visualizing-Filters-of-CNN-using-TensorFlow-
-# Visualizing Filters of a Convolutional Neural Network
+
 
 This repository contains a Jupyter notebook that demonstrates how to visualize the filters of a Convolutional Neural Network (CNN) using a pre-trained VGG16 model. The notebook walks through the process of generating images that maximize the activation of a specific filter in a given layer.
 
